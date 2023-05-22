@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: nl.sakshig.datascrapper.WebScraperTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 14.85 s <<< FAILURE! - in nl.sakshig.datascrapper.WebScraperTest
+testMethod(nl.sakshig.datascrapper.WebScraperTest)  Time elapsed: 14.77 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'org.apache.logging.log4j.LogBuilder org.apache.logging.log4j.Logger.atTrace()'
+	at nl.sakshig.datascrapper.WebScraperTest.testMethod(WebScraperTest.java:14)
+
